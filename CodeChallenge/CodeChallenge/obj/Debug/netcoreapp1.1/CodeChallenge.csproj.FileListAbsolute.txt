@@ -1,0 +1,9 @@
+D:\Projects\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp1.1\CodeChallenge.deps.json
+D:\Projects\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp1.1\CodeChallenge.runtimeconfig.json
+D:\Projects\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp1.1\CodeChallenge.runtimeconfig.dev.json
+D:\Projects\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp1.1\CodeChallenge.dll
+D:\Projects\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp1.1\CodeChallenge.csprojResolveAssemblyReference.cache
+D:\Projects\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp1.1\CodeChallenge.AssemblyInfo.cs
+D:\Projects\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp1.1\CodeChallenge.pdb
+D:\Projects\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp1.1\CodeChallenge.dll
+D:\Projects\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp1.1\CodeChallenge.pdb
